@@ -1,0 +1,7 @@
+{
+  "name": "OM GIO AI STUDIO",
+  "description": "Analyze. Recreate. Replace with Om Gio. Professional video scene recreation & prompt generator for Google Flow and Veo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
